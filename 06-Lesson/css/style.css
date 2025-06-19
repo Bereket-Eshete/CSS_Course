@@ -1,0 +1,14 @@
+body {
+  padding: 10%;
+  font-size: 2rem;
+}
+/* button,
+input {
+  font: inherit;
+} */
+p {
+  line-height: 1.5;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+}
